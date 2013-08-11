@@ -10,3 +10,5 @@ Writes are blocked if the buffer is full. Reads are blocked if the buffer is emp
 Call method WriteIsFinished() when writing is over. Once the reader has emptied the buffer, it will receive a 
 zero-length result signalling the end of the stream.
 
+Have a look a the unit test project to see some example usage scenarios.
+
