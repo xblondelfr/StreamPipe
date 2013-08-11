@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamPipe", "StreamPipe\StreamPipe.csproj", "{6C20719C-3B52-4603-8DA3-55ADA70B9DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_StreamPipe", "Test_StreamPipe\Test_StreamPipe.csproj", "{017FC187-6F60-4762-8091-D3599C1B7690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C20719C-3B52-4603-8DA3-55ADA70B9DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C20719C-3B52-4603-8DA3-55ADA70B9DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C20719C-3B52-4603-8DA3-55ADA70B9DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C20719C-3B52-4603-8DA3-55ADA70B9DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017FC187-6F60-4762-8091-D3599C1B7690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017FC187-6F60-4762-8091-D3599C1B7690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017FC187-6F60-4762-8091-D3599C1B7690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017FC187-6F60-4762-8091-D3599C1B7690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
